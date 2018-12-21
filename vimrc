@@ -18,3 +18,5 @@ set tabstop=2
 set shiftwidth=2
 set shiftround
 set expandtab
+" hybrid line numbers: current line and relative
+set rnu nu
